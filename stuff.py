@@ -27,4 +27,4 @@ class lms:
         self.address = address
     def display(self, book):
         self.books.append(book)
-        print(f"Book Name: {book.name}, Author: {book.author}, Address: {self.address}")    
+        print(f"Book Name: {book.name}, Author: {book.author}, Address: {self.address}")    ff
